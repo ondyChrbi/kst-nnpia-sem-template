@@ -5,7 +5,7 @@ Cílem semestrální práce je vytvořit webovovou aplikaci, která demonstruje 
 ## Organizační požadavky
 - **Povinná konzultace:** nejpozději do **6. týdne** semestru.
 - **Termín odevzdání:** minimálně **2 dny před termínem zápočtu**, který si student zvolí.
-- **Odevzdání repozitáře:** Přes [GitHub Classroom](https://classroom.github.com/a/5awQEbhH).
+- **Odevzdání repozitáře:** GitHub Classroom.
 - **Dokumentace:** Součástí práce musí být stručná **README.md** dokumentace, která popisuje projekt, použitou technologii a návod na spuštění.
 
 ---
